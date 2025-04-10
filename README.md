@@ -21,14 +21,14 @@
 └── 📄 LICENSE
 ```
 
-🚀 Key Features
+## 🚀 Key Features
 - ✅ Domain-Specific Organization - Perfect for developers, security researchers, and content creators
 - ✅ Manual Index Control - Full ownership of your knowledge structure
 - ✅ Learning Progress Tracking - Integrated LeetCode and Course tracking
 - ✅ Research Ready - Dedicated spaces for bug bounty findings and technical analysis
 - ✅ Daily Journaling - Built-in diary system for consistent reflection
 
-📌 Suggested Additions
+## 📌 Suggested Additions
 1. Automation Helpers (Great for Contributors!)
   - Simple Python script to auto-update indexes
   - GitHub Action for periodic vault health checks
@@ -76,13 +76,13 @@ git clone git@github.com:curiousbud/Digilib-Obsidian.git
    
 4. Now you have your own Digilib as an Obsiadian Vault!
    
-🧭 Future Roadmap
+## 🧭 Future Roadmap
   - Auto-indexing script (Python/JavaScript)
   - Obsidian theme customization pack
   - Shared snippets library
   - Bug bounty methodology framework
   LeetCode progress tracker dashboard
 
-📜 License: MIT
+## 📜 License: MIT
 
-🌱 Maintained by: [**curiousbud**](https://github.com/curiousbud)
+## 🌱 Maintained by: [**curiousbud**](https://github.com/curiousbud)
