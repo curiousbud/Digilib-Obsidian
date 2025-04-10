@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/2424e2d1-f1f2-4555-a5bd-ff7e223067b9)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/curiousbud/Digilib-Obsidian) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/curiousbud/Digilib-Obsidian) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/curiousbud/Digilib-Obsidian) ![GitHub Created At](https://img.shields.io/github/created-at/curiousbud/Digilib-Obsidian) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/curiousbud/Digilib-Obsidian) ![GitHub last commit](https://img.shields.io/github/last-commit/curiousbud/Digilib-Obsidian) ![GitHub License](https://img.shields.io/github/license/curiousbud/Digilib-Obsidian)
+
 # 🗃️ Digilib Obsidian - Structured Knowledge Hub  
 *Your organized vault for technical learning, bug bounty tracking, and creative projects*  
 
