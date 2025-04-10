@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "31a20292ded313fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "b101f86f5eb8f88a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f6cc9bee12438e2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a31b5f62bdc67270",
+    "type": "split",
+    "children": [
+      {
+        "id": "625f1b83a1c917b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c1de337188e5e64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "327d5f5322cc4eb1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4a69b2e87d2cfe3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203
+  },
+  "right": {
+    "id": "dc952f8193ecdaef",
+    "type": "split",
+    "children": [
+      {
+        "id": "121edd7437ae381e",
+        "type": "tabs",
+        "dimension": 59.82142857142857,
+        "children": [
+          {
+            "id": "de3f1bbe8a4df646",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "455a72dc73404483",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "71c2c4387295246a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          },
+          {
+            "id": "1b422fc50a77496e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          },
+          {
+            "id": "f60c9e7e298a3e3a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "5b9501dac215a636",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "e69c56d01a4707a1",
+        "type": "tabs",
+        "dimension": 40.17857142857143,
+        "children": [
+          {
+            "id": "c4c8875e30713ded",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "3f6cc9bee12438e2",
+  "lastOpenFiles": [
+    "LICENSE",
+    "Templates/Templates Index.md",
+    "Templates/TOC.md",
+    "Research/Research Index.md",
+    "Research",
+    "Notes/Notes Index.md",
+    "LeetCode/Leetcode Index.md",
+    "Home.md",
+    "Daily Diary/Daily Diary Index.md",
+    "Daily Diary",
+    "Courses/Courses Index.md",
+    "Clippings/Clippings Index.md",
+    "Clippings",
+    "Canvas/Canvas Index.md",
+    "Canvas",
+    "Bug Bounty/Bug Bounty Index.md",
+    "Bug Bounty",
+    "Books/Books Index.md",
+    "Books",
+    "Projects/2 - ALL_MART flutter/Assets/Pasted image 20250130212037 1.png",
+    "Courses/DSA with C++/Problem Solutions/2. Lowercase or Uppercase.md",
+    "Courses/DSA with C++/Problem Solutions/0 - Index.md",
+    "Courses/DSA with C++/Problem Solutions/1. Add Two Numbers.md",
+    "Courses/DSA with C++/0 - Index.md",
+    "Courses/DSA with C++/Problem Solutions",
+    "Courses/DSA with C++",
+    "INDEX.md",
+    "Templates/Problem Solutions Temps/Basic Solution Template.md",
+    "Templates/Problem Solutions Temps",
+    "Templates/Notes Temps/Course Revision.md",
+    "Templates/Notes Temps/Course Notes.md",
+    "Templates/Notes Temps/Course Information.md",
+    "Templates/Notes Temps",
+    "Projects/1 - LinkedIn Clone Using MERN Stack/1. Setup Project.md",
+    "Projects/1 - LinkedIn Clone Using MERN Stack/0. Index.md",
+    "LeetCode/0 - Index.md",
+    "Projects/2 - ALL_MART flutter/Assets/Pasted image 20250130212037.png",
+    "Projects/2 - ALL_MART flutter/1. Setup Project.md",
+    "Courses/NPTEL Ethical Hacking Course/Assets/download.png",
+    "NPTEL Ethical Hacking Course/Assets/download.png",
+    "NPTEL Ethical Hacking Course/download.png",
+    "Canvas/Navigation.canvas",
+    "Courses/Hacker101/assets/sql.png",
+    "Courses/Hacker101/assets/SQL Injection and Friends.png",
+    "Courses/Hacker101/assets/xss.png",
+    "Courses/Hacker101/assets/xss&authorization.png",
+    "Courses/Hacker101/assets/mindmap.png"
+  ]
+}

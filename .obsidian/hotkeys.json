@@ -1,0 +1,63 @@
+{
+  "templater-obsidian:Templates/TOC.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
+  ],
+  "publish:open-in-live-site": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "editing-toolbar:header1-text": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "editing-toolbar:header3-text": [
+    {
+      "modifiers": [],
+      "key": "F10"
+    }
+  ],
+  "editing-toolbar:header5-text": [
+    {
+      "modifiers": [],
+      "key": "F8"
+    }
+  ],
+  "app:open-help": [],
+  "editing-toolbar:header2-text": [
+    {
+      "modifiers": [],
+      "key": "F11"
+    }
+  ],
+  "editing-toolbar:header4-text": [
+    {
+      "modifiers": [],
+      "key": "F9"
+    }
+  ],
+  "editing-toolbar:header6-text": [
+    {
+      "modifiers": [],
+      "key": "F7"
+    }
+  ]
+}
