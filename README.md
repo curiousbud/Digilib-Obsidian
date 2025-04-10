@@ -59,7 +59,7 @@ git clone git@github.com:curiousbud/Digilib-Obsidian.git
 ```
 
 ## How to Open this repo as a Vault in Obsidian:
---------
+
 1. Click on the menu shown by the red arrow:
    
    ![image](https://github.com/user-attachments/assets/b00251c2-5005-42a1-9eb8-b58d863681fe)
